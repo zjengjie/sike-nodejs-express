@@ -1,0 +1,24 @@
+{
+  "name": "myexpress",
+  "version": "1.0.0",
+  "description": "myexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjengjie/sike-nodejs-express.git"
+  },
+  "author": "zengjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjengjie/sike-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/zjengjie/sike-nodejs-express",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
